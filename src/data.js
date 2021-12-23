@@ -5,7 +5,7 @@ export const data = [
         price: '$15',
         description: "I'm baby woke mlkshk wolf bitters live- edge blue bottle, hammock freegan copper mug whatever cold - pressed",
         img: 'https://react-projects-5-menu.netlify.app/images/item-1.jpeg',
-        type: 'Brakfast'
+        type: 'Breakfast'
     },
     {
         id: 1,
@@ -29,7 +29,7 @@ export const data = [
         price: '$15',
         description: 'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut',
         img: 'https://react-projects-5-menu.netlify.app/images/item-4.jpeg',
-        type: 'Brakfast'
+        type: 'Breakfast'
     },
     {
         id: 4,
@@ -45,7 +45,7 @@ export const data = [
         price: '$15',
         description: 'Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday',
         img: 'https://react-projects-5-menu.netlify.app/images/item-6.jpeg',
-        type: 'Shake'
+        type: 'Shakes'
     },
     {
         id: 6,
@@ -53,7 +53,7 @@ export const data = [
         price: '$15',
         description: 'carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird',
         img: 'https://react-projects-5-menu.netlify.app/images/item-7.jpeg',
-        type: 'Brakfast'
+        type: 'Breakfast'
     },
     {
         id: 7,
@@ -69,7 +69,7 @@ export const data = [
         price: '$15',
         description: 'skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.',
         img: 'https://react-projects-5-menu.netlify.app/images/item-9.jpeg',
-        type: 'Shake'
+        type: 'Shakes'
     }
 
 ]
